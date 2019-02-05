@@ -8,7 +8,7 @@ from io import BytesIO
 from fastai import *
 from fastai.vision import *
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=12FfdFtNQ7fkAFkZQEVdcvrIrHgLw9Nw7'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1zW5tauYwYAyNy-16wig3m1mX8sEj8pIL'
 export_file_name = 'export.pkl'
 
 classes = ['blackberry','raspberry','strawberry']
